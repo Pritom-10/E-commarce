@@ -1,16 +1,74 @@
-# React + Vite
+📌 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website allowing users to browse products, add items to a cart, and purchase with ease. Features include user authentication, discounts, and customer support for a seamless shopping experience.
 
-Currently, two official plugins are available:
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 https://e-commarce01.netlify.app/
 
-## React Compiler
+🛠️ Tech Stack
+HTML5
+CSS
+JavaScript
+React
+Tailwind CSS 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tools & Integrations:
 
-## Expanding the ESLint configuration
+Payment gateway 
+Authentication service (Google / Email signup)
+Helpline integration (customer support)
+Discount & offer logic
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+
+🛒 Shopping & Cart
+Navbar with categories: Baby, Men, Women
+Product slides for each category
+Add products to cart
+Track number of items, size, and total cost in dollars
+
+👤 User Authentication
+Signup / login functionality
+Secure user accounts
+
+💰 Discounts & Offers
+Discount system applied at checkout
+
+📞 Customer Support
+Helpline feature for instant assistance
+
+🎨 UI & Layout
+Responsive design
+Easy navigation
+
+📦 Dependencies
+React 
+Tailwind CSS 
+Axios (for API calls)
+
+
+⚙️ How to Run Locally
+1. Clone the repository
+git clone https://github.com/your-username/ecommerce-website.git
+cd ecommerce-website
+2. Install dependencies
+npm install
+3. Run the development server
+npm run dev
+
+👉 Open in browser: http://localhost:3000
+
+📷 Screenshots
+🏠 Home Page
+
+🛒 Cart & Checkout
+
+👤 Signup Page
+
+🔗 Relevant Links
+🌐 Live Site: https://e-commarce01.netlify.app/
+💼 Portfolio: https://pritom-personal-portfolio.netlify.app/
+
+🙌 Author
+Pritom Barua Shiro
