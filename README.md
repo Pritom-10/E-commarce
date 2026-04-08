@@ -1,26 +1,26 @@
-🛍️ E-Commerce Website
+## **🛍️ E-Commerce Website**
 
 # **📌 Overview**
 
 A modern e-commerce website allowing users to browse products, add items to a cart, and purchase with ease. Features include user authentication, discounts, and customer support for a seamless shopping experience.
 
-<span style="font-size:25px">🌐 Live Demo</span>
+# **🌐 Live Demo**
 
 🔗 https://e-commarce01.netlify.app/
 
-<span style="font-size:25px">🛠️ Tech Stack</span>
+# **🛠️ Tech Stack**
 
-HTML5
+**HTML5**
 
-CSS
+**CSS**
 
-JavaScript
+**JavaScript**
 
-React
+**React**
 
-Tailwind CSS
+**Tailwind CSS**
 
-<span style="font-size:19px">Tools & Integrations:</span>
+## **Tools & Integrations:**
 
 Payment gateway
 
@@ -30,11 +30,11 @@ Helpline integration (customer support)
 
 Discount & offer logic
 
-<span style="font-size:25px">✨ Features</span>
+# **✨ Features**
 
-<span style="font-size:20px">🛒 Shopping & Cart</span>
+## **🛒 Shopping & Cart**
 
-Navbar with categories: Baby, Men, Women
+**Navbar with categories:** Baby, Men, Women
 
 Product slides for each category
 
@@ -42,7 +42,7 @@ Add products to cart
 
 Track number of items, size, and total cost in dollars
 
-<span style="font-size:20px">👤 User Authentication</span>
+## **👤 User Authentication**
 
 Signup / login functionality
 
@@ -52,56 +52,56 @@ Secure user accounts
 
 Discount system applied at checkout
 
-<span style="font-size:20px">📞 Customer Support</span>
+## **📞 Customer Support**
 
 Helpline feature for instant assistance
 
-<span style="font-size:25px">🎨 UI & Layout</span>
+## **🎨 UI & Layout**
 
 Responsive design
 
 Easy navigation
 
-<span style="font-size:25px">📦 Dependencies</span>
+# **📦 Dependencies**
 
-React
+**React**
 
-Tailwind CSS
+**Tailwind CSS**
 
-Axios (for API calls)
+**Axios** (for API calls)
 
-<span style="font-size:25px">⚙️ How to Run Locally</span>
+# **⚙️ How to Run Locally**
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/Pritom-10/E-commarce.git
 
-cd ecommerce-website
+**cd ecommerce-website**
 
 Install dependencies:
 
-npm install
+**npm install**
 
 Start the development server:
 
-npm run dev
+**npm run dev**
 
-👉 Open in browser: http://localhost:3000
+**👉 Open in browser: http://localhost:3000**
 
-<span style="font-size:25px">📷 Screenshots</span>
+# **📷 Screenshots**
 
-<span style="font-size:22px">🏠 Home Page</span>
+## **🏠 Home Page**
 
-<span style="font-size:22px">🛒 Cart & Checkout</span>
+## **🛒 Cart & Checkout**
 
-<span style="font-size:22px">👤 Signup Page</span>
+## **👤 Signup Page**
 
-<span style="font-size:25px">🔗 Relevant Links</span>
+# **🔗 Relevant Links**
 
-🌐 Live Site: https://e-commarce01.netlify.app/
+### **🌐 Live Site:** https://e-commarce01.netlify.app/
 
-💼 Portfolio: https://pritom-personal-portfolio.netlify.app/
+### **💼 Portfolio:** https://pritom-personal-portfolio.netlify.app/
 
-<span style="font-size:25px">🙌 Author</span>
+# **🙌 Author**
 
-Pritom Barua Shiro
+### **Pritom Barua Shiro**
