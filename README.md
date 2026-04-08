@@ -7,50 +7,71 @@ A modern e-commerce website allowing users to browse products, add items to a ca
 🔗 https://e-commarce01.netlify.app/
 
 🛠️ Tech Stack
+
 HTML5
+
 CSS
+
 JavaScript
+
 React
+
 Tailwind CSS 
 
 Tools & Integrations:
 
 Payment gateway 
+
 Authentication service (Google / Email signup)
+
 Helpline integration (customer support)
+
 Discount & offer logic
 
 ✨ Features
 
 🛒 Shopping & Cart
+
 Navbar with categories: Baby, Men, Women
+
 Product slides for each category
+
 Add products to cart
+
 Track number of items, size, and total cost in dollars
 
 👤 User Authentication
+
 Signup / login functionality
+
 Secure user accounts
 
 💰 Discounts & Offers
+
 Discount system applied at checkout
 
 📞 Customer Support
+
 Helpline feature for instant assistance
 
 🎨 UI & Layout
+
 Responsive design
+
 Easy navigation
 
 📦 Dependencies
+
 React 
+
 Tailwind CSS 
+
 Axios (for API calls)
 
 
 ⚙️ How to Run Locally
 1. Clone the repository
-git clone https://github.com/your-username/ecommerce-website.git
+git clone https://github.com/Pritom-10/E-commarce.git
 cd ecommerce-website
 2. Install dependencies
 npm install
