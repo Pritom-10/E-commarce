@@ -10,71 +10,71 @@ A modern e-commerce website allowing users to browse products, add items to a ca
 
 # **🛠️ Tech Stack**
 
-**HTML5**
+- **HTML5**
 
-**CSS**
+- **CSS**
 
-**JavaScript**
+- **JavaScript**
 
-**React**
+- **React**
 
-**Tailwind CSS**
+- **Tailwind CSS**
 
 ## **Tools & Integrations:**
 
-Payment gateway
+- Payment gateway
 
-Authentication service (Google / Email signup)
+- Authentication service (Google / Email signup)
 
-Helpline integration (customer support)
+- Helpline integration (customer support)
 
-Discount & offer logic
+- Discount & offer logic
 
 # **✨ Features**
 
 ## **🛒 Shopping & Cart**
 
-**Navbar with categories:** Baby, Men, Women
+- **Navbar with categories:** Baby, Men, Women
 
-Product slides for each category
+- Product slides for each category
 
-Add products to cart
+- Add products to cart
 
-Track number of items, size, and total cost in dollars
+- Track number of items, size, and total cost in dollars
 
 ## **👤 User Authentication**
 
-Signup / login functionality
+- Signup / login functionality
 
-Secure user accounts
+- Secure user accounts
 
 <span style="font-size:20px">💰 Discounts & Offers</span>
 
-Discount system applied at checkout
+- Discount system applied at checkout
 
 ## **📞 Customer Support**
 
-Helpline feature for instant assistance
+- Helpline feature for instant assistance
 
 ## **🎨 UI & Layout**
 
-Responsive design
+- Responsive design
 
-Easy navigation
+- Easy navigation
 
 # **📦 Dependencies**
 
-**React**
+- **React**
 
-**Tailwind CSS**
+- **Tailwind CSS**
 
-**Axios** (for API calls)
+- **Axios** (for API calls)
 
 # **⚙️ How to Run Locally**
 
 **Clone the repository:**
 
-git clone https://github.com/Pritom-10/E-commarce.git
+- git clone https://github.com/Pritom-10/E-commarce.git
 
 **cd ecommerce-website**
 
